@@ -1,8 +1,8 @@
 # Define the candidates and initialize their vote counts
 candidates = {
-    "Alice": 0,
-    "Bob": 0,
-    "Charlie": 0
+    "Ogal": 0,
+    "Steve": 0,
+    "June": 0
 }
 
 def cast_vote():
